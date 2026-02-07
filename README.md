@@ -1,9 +1,6 @@
 # Mintlify Landing Page Clone
 
 This project is a **frontend clone of the Mintlify landing page**, built using **HTML and CSS** only.  
-The main goal of this project was to practice **layout building, section structuring, and UI replication** using pure frontend basics.
-
-I built this as part of my learning journey in web development.
 
 ---
 
@@ -54,8 +51,4 @@ No JavaScript or frameworks are used in this project.
 - Customer stories and testimonials  
 - Final call-to-action section  
 - Detailed footer with links and status  
-
----
-
-## Project Structure
 
